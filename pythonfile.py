@@ -1,0 +1,1 @@
+print("python file in proiect c++, fara un scop")
